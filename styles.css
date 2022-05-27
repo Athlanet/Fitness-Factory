@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    background-image: url(https://cutewallpaper.org/21/andrei-deiu-wallpapers/Andrei-Deiu-Instagram-andreideiu-Posts-Photo-and-.jpg),
+    url(https://i1.wp.com/www.grandpeoples.com/wp-content/uploads/2021/04/Andrei-Deiu-13.jpg?resize=1080%2C1346&ssl=1);
+    background-position: top left, top right;
+    background-repeat: no-repeat;
+    background-size: 40% , 40%;  
+     
+}
+H1{
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif
+}
+form{
+  background-image:url(file:///C:/Users/ADMIN/Desktop/MP/istockphoto22.jpg) ;
+  background-size: cover;
+  align-self: center;
+  width: 20%;
+  background-color: rgb(255,255,255,.1);
+  color: whitesmoke;
+  margin-left: 40%;
+  margin-top: 6%;
+  display:inline-block;
+  font-family: Franklin Gothic Medium;
+}         
+body {
+  margin:0;
+}
+.icon-bar {
+    width: 100%;
+    background-color:rgb(255,255,255,.0);
+    padding: 4px 0px;
+  }
+  
+  .icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 15px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+   
+  }
+  
+  .icon-bar a:hover {
+    box-shadow:  0 0 5px  wheat, 0 0 25px wheat, 0 0 50px  wheat, 0 0 20px  wheat;;;
+  }
+  
+  #start {
+    background-color: rgb(0, 0, 0,.0);
+    border:none;
+    box-shadow:  0 0 5px  wheat, 0 0 8px wheat, 0 0 10px  wheat, 0 0 12px  wheat;
+    border-radius:15PX;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  #start:hover{
+      background-color: aliceblue;
+      color: black;
+      
+  }
+  #logo{
+    font-size: 280%;
+    margin-bottom: 1%;
+    color: silver;
+  }
+  b{
+    font-family: Magneto;
+    text-shadow:  0 0 5px  silver, 0 0 25px rgb(0, 0, 0), 0 0 5px  silver, 0 0 2px  silver;;;
+  }
+  .blogo{
+    width: 70px;
+    margin-top: 5%;
+  }
+
